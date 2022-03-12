@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=23.0
+Name=IBM SPSS 23
+Comment=Statistical Package for the Social Sciences
+Comment[es]=Paquete Estadístico para las Ciencias Sociales
+GenericName=SPSS
+Keywords=SPSS;Statistics;stats;IBM
+Exec=/opt/IBM/SPSS/Statistics/23/bin/stats %u
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=spss
+Categories=GNOME;GTK;Network;WebBrowser;
+MimeType=video/webm;application/x-xpinstall;
+StartupNotify=true
